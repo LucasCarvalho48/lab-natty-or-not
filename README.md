@@ -16,7 +16,7 @@ Utilizei o ChatGPT para gerar ideias sobre o tema do e-book e desenvolver o cont
 ## 🚀 Resultados
 O e-book é interessante, com a IA escolhendo um tema atual e importante abordando as principais ameaças e métodos de segurança cibernética. Isso demonstra sua habilidade em compreender e lidar com diversos temas.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/LucasCarvalho48/lab-natty-or-not/blob/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Seguran%C3%A7a%20Cibern%C3%A9tica.pdf)
 
 ## 💭 Reflexão
 Este projeto representou uma imersão no universo das IAs, destacando a habilidade das IAs generativas de produzir conteúdo sobre temas complexos. A experiência revelou a capacidade das IAs de aumentar a produtividade ao criar textos e imagens em um curto período de tempo. Além disso, vale ressaltar sua facilidade de uso.
